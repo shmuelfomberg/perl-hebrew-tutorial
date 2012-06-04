@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html dir="rtl">
+    <body>
+        <div align="center">
+            <h1>המדריך לפרל בעברית</h1>
+            <h2><a href="perlhebtut2.pdf">גירסת PDF להדפסה</a></h2>
+            <br/>
+            <h2>תוכן עניינים</h2>
+        </div>
+        <insert></insert>
+        <h2><a href="perlhebtut2.pdf">גירסת PDF להדפסה</a></h2>
+        <p>
+            לכל שאלה אתה מוזמן לפנות לרשימת התפוצה
+            <a href="mailto:perl@perl.org.il">פרל ישראל</a>
+        </p>
+        <div align="center">
+            נכתב ע"י שמואל פומברג - כל הזכויות שמורות<br/>
+            מהדורה ראשונה: 20.09.2003<br/>
+            מהדורה שניה: 20.5.2008<br/>
+            שיפוץ קוסמטי ותיקונים: 30.2.2010<br/>
+            <br/>
+            <a href="http://www.shmuelfomberg.com/"><img border="0" src="symbol.gif" width="235" height="159"/></a>
+            <a href="http://www.perl.org.il/"><img border="0" src="pii-round-small.gif" width="150" height="150"/></a>
+        </div>
+        מונה כניסות
+        <a title="WebCounter" href="http://www.digits.com/">
+            <img src="http://counter.digits.com/wc/-d/4/-z/-c/1/semuel" width="60" height="20" border="0" alt="WebCounter"/>
+        </a>
+    </body>
+</html>
